@@ -1,0 +1,11 @@
+C:\Users\mandip\Desktop\sem4\(dot)net\Projects\Mandip.Karki_Assignment1\Mandip.Karki_Assignment1\bin\Debug\Mandip.Karki_Assignment1.exe.config
+C:\Users\mandip\Desktop\sem4\(dot)net\Projects\Mandip.Karki_Assignment1\Mandip.Karki_Assignment1\bin\Debug\Mandip.Karki_Assignment1.exe
+C:\Users\mandip\Desktop\sem4\(dot)net\Projects\Mandip.Karki_Assignment1\Mandip.Karki_Assignment1\bin\Debug\Mandip.Karki_Assignment1.pdb
+C:\Users\mandip\Desktop\sem4\(dot)net\Projects\Mandip.Karki_Assignment1\Mandip.Karki_Assignment1\obj\Debug\Mandip.Karki_Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\mandip\Desktop\sem4\(dot)net\Projects\Mandip.Karki_Assignment1\Mandip.Karki_Assignment1\obj\Debug\Mandip.Karki_Assignment1.Form1.resources
+C:\Users\mandip\Desktop\sem4\(dot)net\Projects\Mandip.Karki_Assignment1\Mandip.Karki_Assignment1\obj\Debug\Mandip.Karki_Assignment1.Properties.Resources.resources
+C:\Users\mandip\Desktop\sem4\(dot)net\Projects\Mandip.Karki_Assignment1\Mandip.Karki_Assignment1\obj\Debug\Mandip.Karki_Assignment1.csproj.GenerateResource.Cache
+C:\Users\mandip\Desktop\sem4\(dot)net\Projects\Mandip.Karki_Assignment1\Mandip.Karki_Assignment1\obj\Debug\Mandip.Karki_Assignment1.exe
+C:\Users\mandip\Desktop\sem4\(dot)net\Projects\Mandip.Karki_Assignment1\Mandip.Karki_Assignment1\obj\Debug\Mandip.Karki_Assignment1.pdb
+C:\Users\mandip\Desktop\sem4\(dot)net\Projects\Mandip.Karki_Assignment1\Mandip.Karki_Assignment1\obj\Debug\Mandip.Karki_Assignment1.About.resources
+C:\Users\mandip\Desktop\sem4\(dot)net\Projects\Mandip.Karki_Assignment1\Mandip.Karki_Assignment1\obj\Debug\Mandip.Karki_Assignment1.Form2.resources

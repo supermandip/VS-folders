@@ -1,0 +1,11 @@
+MusicOrMovie,EntertainGenre,Title,Rating
+Movie,Action,Spider-Man,3
+Movie,Action,Super-Man,3 
+Movie,Horror,End Of World,4
+Movie,Sci-fi,Deadpool,5
+Movie,Romance,Paper Town,5
+Music,pop,Sorry,1
+Music,pop,Hello,4
+Music,Hip-Hop,Let's Dance,2
+Music,Electronic,Fumes,4
+Music,Religious,One Love,1
