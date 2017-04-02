@@ -1,0 +1,57 @@
+﻿
+.left{float:left; width: 45%; padding:10px;}
+.right {
+    float: left;
+    width: 45%;
+    padding: 10px;
+    border-left: thin solid black;
+  
+
+}
+
+
+.col3 {
+    float:left;
+    width:43%;
+    padding:10px;
+    border-left: thin solid black;
+    background-color : 	#D3D3D3;
+    opacity: 0.5;
+}
+.col3:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+label {
+    font-weight: bold;
+}
+
+body {
+    background-image: url(images/blue.jpg) ;
+}
+.polaroid {
+  position: relative;
+  width: 429px;
+    top: 8px;
+    left: 4px;
+    height: 175px;
+}
+ 
+.polaroid img {
+  border: 10px solid #fff;
+  border-bottom: 45px solid #fff;
+  -webkit-box-shadow: 3px 3px 3px #777;
+     -moz-box-shadow: 3px 3px 3px #777;
+          box-shadow: 3px 3px 3px #777;
+}
+ 
+.polaroid p {
+  position: absolute;
+  text-align: center;
+  width: 27%;
+  bottom: 17px;
+  font: 400 18px/1 'Kaushan Script', cursive;
+  color: #888;
+    left: 3px;
+    height: 21px;
+}
