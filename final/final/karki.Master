@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="karki.master.cs" Inherits="final.karki" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Mandip Karki</title>
+    <link href="mandip.css" rel="stylesheet" />
+    
+    
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+    <div>
+        <section class="left">
+
+            <h1 >Mandip's Recipes</h1>
+            <asp:SiteMapPath runat="server"></asp:SiteMapPath>
+        </section>
+         <section class="right">
+             <asp:Image ID="Image1" runat="server" ImageUrl="images/recipes.jpg" Width ="100px"></asp:Image>
+             <asp:TreeView runat="server" DataSourceID="SiteMapDataSource1"></asp:TreeView>
+             <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+        </section>
+        
+        
+    </div>
+        <br style="clear:both" />
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

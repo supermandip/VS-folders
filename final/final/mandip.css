@@ -1,0 +1,21 @@
+﻿body {
+
+
+}
+
+h1 {
+    color:blue;
+    font-style:initial;
+    font-weight:bold;
+}
+
+hr{color:white;}
+
+.left{float: left; width: 45%; border: thin solid blue;}
+
+.right {
+    float: right;
+    width: 45%;
+    border: thin solid red;
+}
+
